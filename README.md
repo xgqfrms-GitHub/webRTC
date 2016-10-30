@@ -9,7 +9,7 @@ webRTC : HTML5 video real-time player
 
 [Can I use webRTC](http://caniuse.com/#search=webRTC)
 
-[docs](https://codelabs.developers.google.com/codelabs/webrtc-web/)
+[webRTC Offical Docs](https://codelabs.developers.google.com/codelabs/webrtc-web/)
 
 
 
